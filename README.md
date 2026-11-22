@@ -180,5 +180,3 @@ docker compose exec ollama ollama pull qwen2.5:3b   # first time only
 ## License
 
 [MIT](LICENSE)
-#   A g e n t i c - R a g  
- 
